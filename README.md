@@ -17,4 +17,4 @@
   
   ##
   
-  ![snake animation](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake-svg)
+  ![snake gif](https://github.com/Fabs0602/Fabs0602/blob/output/github-contribution-grid-snake.gif)
