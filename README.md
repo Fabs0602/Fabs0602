@@ -17,4 +17,4 @@
   
   ##
   
-  ![snake gif](https://github.com/Fabs0602/Fabs0602/blob/output/github-contribution-grid-snake.gif)
+  ![snake svg](https://github.com/Fabs0602/Fabs0602/blob/output/github-contribution-grid-snake.svg)
