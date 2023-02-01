@@ -8,4 +8,13 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabs0602&layout=compact&langs_count=168&theme=dark"/>
  </div>
    
+  ##
   
+  <div>
+<a href = "fabriciotorres287@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/fabricio-torres-a96374173" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
+  
+  ##
+  
+  ![snake animation](https://github.com/Fabs0602/Fabs0602/blob/output/github-contribution-grid-snake-svg)
