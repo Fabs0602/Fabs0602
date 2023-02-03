@@ -1,6 +1,7 @@
 # Olá, eu sou o Fabricio Torres!
 
 - Atualmente trabalho como Suporte Tecnico/QA/Desenvolvedor
+- Estudante de Analise e Desnvolvimento de Sistemas (FIAP)
 
 <div>
   <a href="https://github.com/Fabs0602">
