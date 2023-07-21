@@ -1,6 +1,6 @@
 # Olá, eu sou o Fabricio Torres!
 
-- Atualmente trabalho como Suporte Tecnico/QA/Desenvolvedor
+- Atualmente trabalho como Suporte Tecnico/QA
 - Estudante de Analise e Desnvolvimento de Sistemas (FIAP)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabs0602&show_icons=true&theme=dark)
