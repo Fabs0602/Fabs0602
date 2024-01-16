@@ -28,33 +28,22 @@ class ProfissionalQA {
   <a href="https://br.linkedin.com/in/fabricio-torres-a96374173" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 
-Sobre mim 👩‍💻
+<h2>Sobre mim 👩‍💻</h2>
+<p>Meu nome é Fabricio Torres, tenho 21 anos e resido em Poá, São Paulo, Brasil.</p>
+<p>Iniciei minha jornada na área de tecnologia através do curso de Redes de Computadores pelo SENAI Brás e, em seguida, ingressei na faculdade de Análise e Desenvolvimento de Sistemas pela FIAP.</p>
+<p>Em Set/2022, comecei meu desafio atual como Estagiário de TI na empresa Amar Assist, focado na área de Quality Assurance.</p>
 
-Meu nome é Fabricio Torres e tenho 21  anos. Resido em Poá, localizada em São Paulo, Brasil.
+<h2>Formação 📚</h2>
+<ul>
+  <li>Técnico em Redes de Computadores - SENAI Brás (Agosto/2021 - Dez/2022)</li>
+  <li>Analise e Desenvolvimento de Sistemas - FIAP (Fev/2023 - Cursando)</li>
+</ul>
 
-Iniciei minha jornada na área de tecnologia através do curso de Redes de Computadores pelo Senai e logo após na minha faculdade de Analise e desenvolvimento de Sistemas pela FIAP
-
-Em Set/2022, iniciei meu desafio atual como Estagiário de TI, na empresa Amar Assist focado na parte de Quality Assurance.
-
-Formação 📚
-
-Técnico em Redes de Computadores - SENAI Brás(Agosto/2021 - Dez/2022)
-
-Analise e Desenvolvimento de Sistemas - FIAP(Fev/2023 - Cursando)
-
-Tecnologias atuais 💻
-
-Linguagem: 
-[PHP,JAVA,JS]
-
-Sistema Operacional: 
-[Windows/Linux]
-
-Frameworks: 
-[REACT e Laravel]
-
-IDE: 
-[Visual Studio Code (VS Code), Eclipse e PHP Storm]
-
-Banco de Dados: 
-[Mysql(Workbench) e Oracle]
+<h2>Tecnologias atuais 💻</h2>
+<ul>
+  <li>Linguagens: PHP, Java, JS</li>
+  <li>Sistema Operacional: Windows/Linux</li>
+  <li>Frameworks: React e Laravel</li>
+  <li>IDE: Visual Studio Code (VS Code), Eclipse e PHP Storm</li>
+  <li>Banco de Dados: MySQL (Workbench) e Oracle</li>
+</ul>
