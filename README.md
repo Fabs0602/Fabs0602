@@ -27,3 +27,34 @@ class ProfissionalQA {
   <div>
   <a href="https://br.linkedin.com/in/fabricio-torres-a96374173" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+
+Sobre mim 👩‍💻
+
+Meu nome é Fabricio Torres e tenho 21  anos. Resido em Poá, localizada em São Paulo, Brasil.
+
+Iniciei minha jornada na área de tecnologia através do curso de Redes de Computadores pelo Senai e logo após na minha faculdade de Analise e desenvolvimento de Sistemas pela FIAP
+
+Em Set/2022, iniciei meu desafio atual como Estagiário de TI, na empresa Amar Assist focado na parte de Quality Assurance.
+
+Formação 📚
+
+Técnico em Redes de Computadores - SENAI Brás(Agosto/2021 - Dez/2022)
+
+Analise e Desenvolvimento de Sistemas - FIAP(Fev/2023 - Cursando)
+
+Tecnologias atuais 💻
+
+Linguagem: 
+[PHP,JAVA,JS]
+
+Sistema Operacional: 
+[Windows/Linux]
+
+Frameworks: 
+[REACT e Laravel]
+
+IDE: 
+[Visual Studio Code (VS Code), Eclipse e PHP Storm]
+
+Banco de Dados: 
+[Mysql(Workbench) e Oracle]
