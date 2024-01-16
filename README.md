@@ -1,7 +1,24 @@
-# Olá, eu sou o Fabricio Torres!
+#<?php
 
-- Atualmente trabalho como Suporte Tecnico/QA
-- Estudante de Analise e Desnvolvimento de Sistemas (FIAP)
+/*
+class ProfissionalQA {
+    public $nome;
+    public $area;
+    public $trabalho;
+    public $local;
+    public $linguagens;
+    public $frameworks;
+    public $bancoDeDados;
+
+    public function __construct() {
+        $this->nome = "Fabricio Torres";
+        $this->area = "Quality Assurance";
+        $this->trabalho = "Amar Assist";
+        $this->local = "Faria Lima";
+        $this->linguagens = ["PHP", "Java", "JS"];
+        $this->frameworks = ["Laravel", "React"];
+        $this->bancoDeDados = ["MySQL", "Oracle"];
+    }
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabs0602&show_icons=true&theme=dark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabs0602&layout=compact&bg_color=000000&text_color=ffffff)
