@@ -45,5 +45,6 @@ class ProfissionalQA {
   <li>Sistema Operacional: Windows/Linux</li>
   <li>Frameworks: React e Laravel</li>
   <li>IDE: Visual Studio Code (VS Code), Eclipse e PHP Storm</li>
+  <li>Ferramentas: Selenium, PHPunit e JUnit </li>
   <li>Banco de Dados: MySQL (Workbench) e Oracle</li>
 </ul>
