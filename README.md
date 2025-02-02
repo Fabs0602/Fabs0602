@@ -11,14 +11,18 @@ class ProfissionalQA {
     public $bancoDeDados;
 
     public function __construct() {
-        $this->nome = "Fabricio Torres";
-        $this->area = "Quality Assurance";
-        $this->trabalho = "Amar Assist";
-        $this->local = "Faria Lima";
-        $this->linguagens = ["PHP", "Java", "JS"];
-        $this->frameworks = ["Laravel", "React"];
-        $this->bancoDeDados = ["MySQL", "Oracle"];
-    }
+    $this->nome = "Fabricio Torres";
+    $this->area = "Quality Assurance";
+    $this->trabalho = "Eicon";
+    $this->local = "Sacomã, São Paulo";
+    $this->linguagens = ["PHP", "Java", "JavaScript"];
+    $this->frameworks = ["Laravel", "RobotFramework"];
+    $this->ferramentas = ["Selenium IDE", "PHPUnit", "JUnit", "JMeter"];
+    $this->bancoDeDados = ["MySQL (Workbench)", "Oracle"];
+    $this->so = ["Windows", "Linux"];
+    $this->ide = ["Visual Studio Code (VS Code)", "Eclipse", "PHPStorm"];
+}
+
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabs0602&show_icons=true&theme=dark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabs0602&layout=compact&bg_color=000000&text_color=ffffff)
@@ -30,21 +34,34 @@ class ProfissionalQA {
 
 <h2>Sobre mim 👩‍💻</h2>
 <p>Meu nome é Fabricio Torres, tenho 21 anos e resido em Poá, São Paulo, Brasil.</p>
-<p>Iniciei minha jornada na área de tecnologia através do curso de Redes de Computadores pelo SENAI Brás e, em seguida, ingressei na faculdade de Análise e Desenvolvimento de Sistemas pela FIAP.</p>
-<p>Em Set/2022, comecei meu desafio atual como Estagiário de TI na empresa Amar Assist, focado na área de Quality Assurance.</p>
+<p>Profissional com sólida experiência em Quality Assurance, especializado em automação de testes e qualidade de software. Minha expertise inclui a criação e execução de testes unitários com PHPUnit, automação de testes de fluxo e usuário com Selenium IDE e gestão de casos de teste no TestRail.
+
+Tenho ampla experiência em manipulação e consulta de dados através de SQL no Workbench e validação de APIs utilizando Postman, assegurando entregas de alta qualidade em ambientes ágeis (Scrum).
+
+Principais competências e tecnologias:
+
+Automação de Testes: PHPUnit, Selenium IDE.
+Desempenho e Carga: JMeter.
+Ferramentas e Tecnologias: Docker, Bitbucket, Postman, Visual Studio Code, GitHub.
+Frameworks e Linguagens: Vue.js, PHP (Laravel) e SQL.
+Metodologias e Práticas: TDD, BDD e Scrum.
+
+Destaque para o domínio no desenvolvimento e execução de testes em sistemas complexos, com foco em automação, documentação e análise contínua de qualidade. Possuo um compromisso constante com o aprendizado, acompanhando as tendências e inovações na área de QA para garantir soluções eficientes e assertivas.
+
+💡 Objetivo: Elevar os padrões de qualidade nos projetos em que atuo, contribuindo diretamente para o sucesso das entregas e a satisfação dos usuários.</p>
 
 <h2>Formação 📚</h2>
 <ul>
   <li>Técnico em Redes de Computadores - SENAI Brás (Agosto/2021 - Dez/2022)</li>
-  <li>Analise e Desenvolvimento de Sistemas - FIAP (Fev/2023 - Cursando)</li>
+  <li>Analise e Desenvolvimento de Sistemas - FIAP (Fev/2023 - Dez/24)</li>
 </ul>
 
 <h2>Tecnologias atuais 💻</h2>
 <ul>
-  <li>Linguagens: PHP, Java, JS</li>
-  <li>Sistema Operacional: Windows/Linux</li>
-  <li>Frameworks: React e Laravel</li>
-  <li>IDE: Visual Studio Code (VS Code), Eclipse e PHP Storm</li>
-  <li>Ferramentas: Selenium, PHPunit e JUnit </li>
-  <li>Banco de Dados: MySQL (Workbench) e Oracle</li>
+  <li><strong>Linguagens:</strong> PHP, Java, JavaScript</li>
+  <li><strong>Sistema Operacional:</strong> Windows, Linux</li>
+  <li><strong>Frameworks:</strong> RobotFramework, Laravel</li>
+  <li><strong>IDE:</strong> Visual Studio Code (VS Code), Eclipse, PHPStorm</li>
+  <li><strong>Ferramentas:</strong> Selenium IDE, PHPUnit, JUnit, JMeter</li>
+  <li><strong>Banco de Dados:</strong> MySQL (Workbench), Oracle</li>
 </ul>
