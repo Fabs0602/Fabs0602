@@ -53,7 +53,7 @@ Destaque para o domínio no desenvolvimento e execução de testes em sistemas c
 <h2>Formação 📚</h2>
 <ul>
   <li>Técnico em Redes de Computadores - SENAI Brás (Agosto/2021 - Dez/2022)</li>
-  <li>Analise e Desenvolvimento de Sistemas - FIAP (Fev/2023 - Dez/24)</li>
+  <li>Analise e Desenvolvimento de Sistemas - FIAP (Fev/2023 - Dez/2024)</li>
 </ul>
 
 <h2>Tecnologias atuais 💻</h2>
