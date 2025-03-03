@@ -13,8 +13,6 @@ class ProfissionalQA {
     public function __construct() {
     $this->nome = "Fabricio Torres";
     $this->area = "Quality Assurance";
-    $this->trabalho = "Eicon";
-    $this->local = "Sacomã, São Paulo";
     $this->linguagens = ["PHP", "Java", "JavaScript"];
     $this->frameworks = ["Laravel", "RobotFramework"];
     $this->ferramentas = ["Selenium IDE", "PHPUnit", "JUnit", "JMeter"];
