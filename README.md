@@ -13,9 +13,8 @@ class ProfissionalQA {
     public function __construct() {
     $this->nome = "Fabricio Torres";
     $this->area = "Quality Assurance";
-    $this->linguagens = ["PHP", "Java", "JavaScript"];
-    $this->frameworks = ["Laravel", "RobotFramework"];
-    $this->ferramentas = ["Selenium IDE", "PHPUnit", "JUnit", "JMeter"];
+    $this->frameworks = ["RobotFramework"];
+    $this->ferramentas = ["Selenium IDE", "JUnit", "JMeter"];
     $this->bancoDeDados = ["MySQL (Workbench)", "Oracle"];
     $this->so = ["Windows", "Linux"];
     $this->ide = ["Visual Studio Code (VS Code)", "Eclipse", "PHPStorm"];
@@ -38,11 +37,12 @@ Tenho ampla experiência em manipulação e consulta de dados através de SQL no
 
 Principais competências e tecnologias:
 
-Automação de Testes: PHPUnit, Selenium IDE.
-Desempenho e Carga: JMeter.
-Ferramentas e Tecnologias: Docker, Bitbucket, Postman, Visual Studio Code, GitHub.
-Frameworks e Linguagens: Vue.js, PHP (Laravel) e SQL.
-Metodologias e Práticas: TDD, BDD e Scrum.
+✅ Automação de Testes: RobotFramework
+✅ Testes de Desempenho e Carga: JMeter
+✅ Ferramentas e Tecnologias: Docker, Bitbucket, Postman, Visual Studio Code, GitHub
+✅ Frameworks e Linguagens: SQL
+✅ Gestão de Testes e Projetos: TestRail, ClickUp, Azure DevOps
+✅ Metodologias e Práticas: TDD, BDD, Scrum
 
 Destaque para o domínio no desenvolvimento e execução de testes em sistemas complexos, com foco em automação, documentação e análise contínua de qualidade. Possuo um compromisso constante com o aprendizado, acompanhando as tendências e inovações na área de QA para garantir soluções eficientes e assertivas.
 
