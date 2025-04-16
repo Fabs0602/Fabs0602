@@ -64,6 +64,12 @@ Sou apaixonado por qualidade e por contribuir para entregas mais confiáveis e e
 
 ---
 
+<div aling=center>
+
+  <img src="https://raw.githubusercontent.com/Fabs0602/Fabs0602/output/snake.svg" alt="Snake animation" />
+
+</div>
+
 ### 🔗 Contato
 
 <a href="https://br.linkedin.com/in/fabricio-torres-a96374173" target="_blank">
