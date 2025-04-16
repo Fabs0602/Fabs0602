@@ -1,6 +1,12 @@
 <h1 align="center">👋 Olá! Eu sou o Fabricio Torres</h1>
-<p align="center">Quality Assurance | Testes Automatizados | Robot Framework</p>
+<p align="center"> QA Analyst | Test Automation | Agile</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 ---
 
 ### 👨‍💻 Sobre mim
