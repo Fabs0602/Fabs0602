@@ -1,65 +1,62 @@
-#<?php
+<h1 align="center">👋 Olá! Eu sou o Fabricio Torres</h1>
+<p align="center">Quality Assurance | Testes Automatizados | Robot Framework</p>
 
-/*
-class ProfissionalQA {
-    public $nome;
-    public $area;
-    public $trabalho;
-    public $local;
-    public $linguagens;
-    public $frameworks;
-    public $bancoDeDados;
+---
 
-    public function __construct() {
-    $this->nome = "Fabricio Torres";
-    $this->area = "Quality Assurance";
-    $this->frameworks = ["RobotFramework"];
-    $this->ferramentas = ["Selenium IDE", "JUnit", "JMeter"];
-    $this->bancoDeDados = ["MySQL (Workbench)", "Oracle"];
-    $this->so = ["Windows", "Linux"];
-    $this->ide = ["Visual Studio Code (VS Code)", "Eclipse", "PHPStorm"];
-}
+### 👨‍💻 Sobre mim
 
+Tenho 22 anos, moro em Poá - SP 🇧🇷 e atualmente trabalho com **automação de testes e garantia da qualidade de software**. Possuo experiência com:
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabs0602&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabs0602&layout=compact&bg_color=000000&text_color=ffffff)
-  ##
-  
-  <div>
-  <a href="https://br.linkedin.com/in/fabricio-torres-a96374173" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
+- ✅ **Testes Web e API**
+- ✅ **Automação com Robot Framework**
+- ✅ **Validação de dados via SQL**
+- ✅ **Testes de performance com JMeter**
+- ✅ **Postman para testes de API**
+- ✅ **GitHub Actions e Docker no pipeline de QA**
 
-<h2>Sobre mim 👩‍💻</h2>
-<p>Meu nome é Fabricio Torres, tenho 21 anos e resido em Poá, São Paulo, Brasil.</p>
-<p>Profissional com sólida experiência em Quality Assurance, especializado em automação de testes e qualidade de software. Minha expertise inclui a criação e execução de testes unitários com PHPUnit, automação de testes de fluxo e usuário com Selenium IDE e gestão de casos de teste no TestRail.
+Sou apaixonado por qualidade e por contribuir para entregas mais confiáveis e estáveis.
 
-Tenho ampla experiência em manipulação e consulta de dados através de SQL no Workbench e validação de APIs utilizando Postman, assegurando entregas de alta qualidade em ambientes ágeis (Scrum).
+---
 
-Principais competências e tecnologias:
+### 💼 Tecnologias & Ferramentas
 
-✅ Automação de Testes: RobotFramework
-✅ Testes de Desempenho e Carga: JMeter
-✅ Ferramentas e Tecnologias: Docker, Bitbucket, Postman, Visual Studio Code, GitHub
-✅ Frameworks e Linguagens: SQL
-✅ Gestão de Testes e Projetos: TestRail, ClickUp, Azure DevOps
-✅ Metodologias e Práticas: TDD, BDD, Scrum
+| Tipo | Tecnologias |
+|------|-------------|
+| **Linguagens** | `Python`, `PHP`, `Java`, `JavaScript`, `SQL` |
+| **Frameworks** | `Robot Framework`, `Laravel`, `JUnit`, `PHPUnit` |
+| **Ferramentas de QA** | `Selenium IDE`, `JMeter`, `Postman`, `TestRail` |
+| **DevOps / CI/CD** | `Docker`, `Bitbucket`, `GitHub Actions`, `Jenkins` |
+| **IDE / Editor** | `VS Code`, `PHPStorm`, `Eclipse` |
+| **Banco de Dados** | `MySQL`, `Oracle` |
+| **SO** | `Windows`, `Linux` |
+| **Metodologias** | `Scrum`, `TDD`, `BDD` |
 
-Destaque para o domínio no desenvolvimento e execução de testes em sistemas complexos, com foco em automação, documentação e análise contínua de qualidade. Possuo um compromisso constante com o aprendizado, acompanhando as tendências e inovações na área de QA para garantir soluções eficientes e assertivas.
+---
 
-💡 Objetivo: Elevar os padrões de qualidade nos projetos em que atuo, contribuindo diretamente para o sucesso das entregas e a satisfação dos usuários.</p>
+### 🧪 Meus Repositórios QA em destaque
 
-<h2>Formação 📚</h2>
-<ul>
-  <li>Técnico em Redes de Computadores - SENAI Brás (Agosto/2021 - Dez/2022)</li>
-  <li>Analise e Desenvolvimento de Sistemas - FIAP (Fev/2023 - Dez/2024)</li>
-</ul>
+- 🔐 [**robot_login_test**](https://github.com/Fabs0602/robot_login_test) – Testes de login com Robot Framework
+- 🌐 [**robot_web_test**](https://github.com/Fabs0602/robot_web_test) – Testes automatizados de uma aplicação web
+- 🔗 [**test_api**](https://github.com/Fabs0602/test_api) – Testes de API com Robot Framework
 
-<h2>Tecnologias atuais 💻</h2>
-<ul>
-  <li><strong>Linguagens:</strong> PHP, Java, JavaScript</li>
-  <li><strong>Sistema Operacional:</strong> Windows, Linux</li>
-  <li><strong>Frameworks:</strong> RobotFramework, Laravel</li>
-  <li><strong>IDE:</strong> Visual Studio Code (VS Code), Eclipse, PHPStorm</li>
-  <li><strong>Ferramentas:</strong> Selenium IDE, PHPUnit, JUnit, JMeter</li>
-  <li><strong>Banco de Dados:</strong> MySQL (Workbench), Oracle</li>
-</ul>
+---
+
+### 📚 Formação Acadêmica
+
+- 🎓 **Técnico em Redes de Computadores** – SENAI Brás (2021–2022)  
+- 🎓 **Análise e Desenvolvimento de Sistemas** – FAP (2023–2025)
+
+---
+
+### 📊 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabs0602&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabs0602&layout=compact&bg_color=000000&text_color=ffffff)
+
+---
+
+### 🔗 Contato
+
+<a href="https://br.linkedin.com/in/fabricio-torres-a96374173" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
