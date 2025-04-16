@@ -56,7 +56,7 @@ Sou apaixonado por qualidade e por contribuir para entregas mais confiáveis e e
 ### 📚 Formação Acadêmica
 
 - 🎓 **Técnico em Redes de Computadores** – SENAI Brás (2021–2022)  
-- 🎓 **Análise e Desenvolvimento de Sistemas** – FAP (2023–2025)
+- 🎓 **Análise e Desenvolvimento de Sistemas** – FIAP (2023–2025)
 
 ---
 
