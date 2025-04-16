@@ -40,9 +40,9 @@ Sou apaixonado por qualidade e por contribuir para entregas mais confiáveis e e
 
 ### 🧪 Meus Repositórios QA em destaque
 
-- 🔐 [**robot_criação de cards**]([https://github.com/Fabs0602/robot_login_test](https://github.com/Fabs0602/Projeto-robot-para-criar-cards)) – Testes de login e criação de cards de profissão
-- 🌐 [**docker for Qa**]([https://github.com/Fabs0602/robot_web_test](https://github.com/Fabs0602/Docker_for_Qas)) – Utilizando docker para Qa
-- 🔗 [**test_api**]([https://github.com/Fabs0602/test_api](https://github.com/Fabs0602/ApiTesting)) – Testes de API com Robot Framework
+- 🔐 [**robot_criação de cards**](https://github.com/Fabs0602/Projeto-robot-para-criar-cards) – Testes de login e criação de cards de profissão
+- 🌐 [**docker for Qa**](https://github.com/Fabs0602/Docker_for_Qas) – Utilizando docker para Qa
+- 🔗 [**test_api**](https://github.com/Fabs0602/ApiTesting) – Testes de API com Robot Framework
 
 ---
 
