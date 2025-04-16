@@ -21,7 +21,7 @@ Tenho 22 anos, moro em Poá - SP 🇧🇷 e atualmente trabalho com **automaçã
 - ✅ **Validação de dados via SQL**
 - ✅ **Testes de performance com JMeter**
 - ✅ **Postman para testes de API**
-- ✅ **GitHub Actions e Docker no pipeline de QA**
+- ✅ **Jenkins, sonarqube e Docker no pipeline de QA**
 
 Sou apaixonado por qualidade e por contribuir para entregas mais confiáveis e estáveis.
 
