@@ -29,7 +29,7 @@ Sou apaixonado por qualidade e por contribuir para entregas mais confiáveis e e
 
 ### 💼 Tecnologias & Ferramentas
 
-<div align="center">
+
 
 | Tipo | Tecnologias |
 |------|-------------|
@@ -42,7 +42,6 @@ Sou apaixonado por qualidade e por contribuir para entregas mais confiáveis e e
 | **SO** | `Windows`, `Linux` |
 | **Metodologias** | `Scrum`, `TDD`, `BDD` |
 
-</div>
 
 ---
 
