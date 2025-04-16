@@ -70,8 +70,13 @@ Sou apaixonado por qualidade e por contribuir para entregas mais confiáveis e e
 
 </div>
 
+
 ### 🔗 Contato
 
-<a href="https://br.linkedin.com/in/fabricio-torres-a96374173" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://br.linkedin.com/in/fabricio-torres-a96374173" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" />
+  </a>
+</p>
+
+
