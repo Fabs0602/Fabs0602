@@ -29,6 +29,8 @@ Sou apaixonado por qualidade e por contribuir para entregas mais confiáveis e e
 
 ### 💼 Tecnologias & Ferramentas
 
+<div align="center">
+
 | Tipo | Tecnologias |
 |------|-------------|
 | **Linguagens** | `Python`, `PHP`, `Java`, `JavaScript`, `SQL` |
@@ -39,6 +41,8 @@ Sou apaixonado por qualidade e por contribuir para entregas mais confiáveis e e
 | **Banco de Dados** | `MySQL`, `Oracle` |
 | **SO** | `Windows`, `Linux` |
 | **Metodologias** | `Scrum`, `TDD`, `BDD` |
+
+</div>
 
 ---
 
